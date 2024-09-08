@@ -7,7 +7,7 @@ export async function before(m, {conn, isAdmin, isBotAdmin, isOwner, isROwner}) 
   const bot = global.db.data.settings[this.user.jid] || {};
   if (bot.antiPrivate && !isOwner && !isROwner) {
     await m.reply(`*اهلا بيك ي صحبي @${m.sender.split`@`[0]}, *ممنوع استخدام البوت في الخاص تقدر تستعملو في الجروب كلم المطور عشان تدخل*
-  https://api.whatsapp.com/send?phone=+201225655220  `, false, {mentions: [m.sender]});
+  https://api.whatsapp.com/send?phone=+249111230420  `, false, {mentions: [m.sender]});
     await this.updateBlockStatus(m.chat, 'block');
   }
   return !1;
