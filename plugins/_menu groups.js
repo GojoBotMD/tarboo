@@ -91,7 +91,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 │✯ ❯ .تغير-الاسم. 
 │✯ ❯ .تغيرالوصف. 
 │✯ ❯ .تغيرالصوره. 
-✪┋𝐁𝐘┋❥ 𝐓𝐀𝐑𝐁𝐎𝐎☞𝐁𝐎𝐓 ┋✪
+✪┋𝐁𝐘┋❥ MIDO☞𝐁𝐎𝐓 ┋✪
 ⟣┈┈┈┈⟢𓆩〘❄〙𓆪⟣┈┈┈┈⟢`;
 
     await conn.sendMessage(m.chat, { image: { url: img }, caption: str, mentions: [m.sender] }, { quoted: global.fcontact });
