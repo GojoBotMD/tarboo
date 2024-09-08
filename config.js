@@ -12,19 +12,19 @@ global.botnumber = "";
 global.confirmCode = "";
 
 global.owner = [
-  ['201225655220', ':┋𝐓𝐀𝐑𝐁𝐎𝐎 𝐎𝐖𝐍𝐄𝐑┋:', true],
-  ['201228616765', ':┋𝐓𝐀𝐑𝐁𝐎𝐎 𝐎𝐖𝐍𝐄𝐑²┋: ', true],
+  ['249111230420', ':┋MIDO 𝐎𝐖𝐍𝐄𝐑┋:', true],
+  ['249128749239', ':┋MIDO 𝐎𝐖𝐍𝐄𝐑²┋: ', true],
 ];
 
-global.suittag = ['201225655220'];
-global.prems = ['201225655220'];
-global.packname = '• 𝙱𝙾𝚃 𝙴𝙻 𝚃𝙰𝚁𝙱𝙾𝙾 | 🐼❤️) ء';
-global.author = '‹ ᴛᴀʀʙᴏᴏ ʙᴏᴛ ،| 🌝♥️';
+global.suittag = ['249111230420'];
+global.prems = ['249111230420'];
+global.packname = '• 𝙱𝙾𝚃 𝙴𝙻 mido | 🐼❤️) ء';
+global.author = '‹ mido ʙᴏᴛ ،| 🌝♥️';
 global.vs = 'V2 • 1.0.5';
 global.wm = '• 🅃🄰🅁🄱🄾🄾 🄱🄾🅃 | ،💛؛❥!';
-global.titulowm = '•❬ 𝒕𝒂𝒓𝒃𝒐𝒐 𝒃𝒐𝒕 ❭•︎';
+global.titulowm = '•❬ MIDO BOT ❭•︎';
 global.titulowm2 = `• 𝙱𝙾𝚃 𝙴𝙻 𝚃𝙰𝚁𝙱𝙾𝙾 | 🐼❤️)`;
-global.igfg = '𝑇𝐴𝑅𝒃𝑂𝑂 𝒃𝑂𝑇';
+global.igfg = 'MIDO BOT';
 global.rwait = '⌛';
 global.done = '✅';
 global.wait = '⌛ *`الرجاء الانتظار قليلا...`*\n*✪✦✦⊹⊹⊹⊹⊹⊹⊹⊹✪*';
@@ -50,11 +50,11 @@ global.mes = d.toLocaleDateString('es', { month: 'long' });
 global.año = d.toLocaleDateString('es', { year: 'numeric' });
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true });
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝑻𝑨𝑹𝑩𝑶𝑶 𝑩𝒐𝒕᪣︎`;
+global.wm2 = `${dia} ${fecha}\nMidi 𝑩𝒐𝒕᪣︎`;
 global.gt = '𝑇𝐴𝑅𝒃𝑂𝑂 𝒃𝑂𝑇𐇵︎';
-global.mysticbot = '𝑇𝐴𝑅𝐵𝑂𝑂 𝐵𝑂𝑇᪣︎';
-global.md = '𝚃𝙰𝚁𝙱𝙾𝙾 𝙱𝙾𝚃💛📒 ؛';
-global.mysticbot = '𝚃𝙰𝚁𝙱𝙾𝙾 𝑩𝒐𝒕';
+global.mysticbot = 'mido 𝐵𝑂𝑇᪣︎';
+global.md = 'mido 𝙱𝙾𝚃💛📒 ؛';
+global.mysticbot = 'mido 𝑩𝒐𝒕';
 global.waitt = '⌛ *`الرجاء الانتظار قليلا...`*\n*✪✦✦⊹⊹⊹⊹⊹⊹⊹⊹✪*';
 global.waittt = '⌛ *`الرجاء الانتظار قليلا...`*\n*✪✦✦⊹⊹⊹⊹⊹⊹⊹⊹✪*';
 global.waitttt = '⌛ *`الرجاء الانتظار قليلا...`*\n*✪✦✦⊹⊹⊹⊹⊹⊹⊹⊹✪*';
