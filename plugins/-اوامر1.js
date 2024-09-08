@@ -41,7 +41,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 > *© 𝐸𝐿𝐴𝐾𝑅𝐸𝐵...*`,
             img1,
             [], [],
-            [['「❄ ╎الـمــطـور╎❄ 」', 'https://wa.me/201225655220'], ['「❄ ╎الــقــــناه❄ 」', 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f']],
+            [['「❄ ╎الـمــطـور╎❄ 」', 'https://wa.me/249111230420'], ['「❄ ╎الــقــــناه❄ 」', 'https://https://whatsapp.com/channel/0029Vaich7vLdQeUgMMBPc13']],
             []
         ],
         [
@@ -95,7 +95,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 > *© 𝐸𝐿𝐴𝐾𝑅𝐸𝐵...*`,
             img2,
             [], [],
-            [['「❄ ╎الـمــطـور╎❄ 」', 'https://wa.me/201225655220'], ['「❄ ╎قــناتــــي╎❄ 」', 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f']],
+            [['「❄ ╎الـمــطـور╎❄ 」', 'https://wa.me/249111230420'], ['「❄ ╎قــناتــــي╎❄ 」', 'https://whatsapp.com/channel/0029Vaich7vLdQeUgMMBPc13']],
             []
         ],
         [
@@ -136,7 +136,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 > *© 𝐸𝐿𝐴𝐾𝑅𝐸𝐵...*`,
             img3,
             [], [],
-            [['「❄ ╎الـمــطـور╎❄ 」', 'https://wa.me/201225655220'], ['「❄ ╎قــنــاتـي╎❄ 」', 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f']],
+            [['「❄ ╎الـمــطـور╎❄ 」', 'https://wa.me/249111230420'], ['「❄ ╎قــنــاتـي╎❄ 」', 'https://whatsapp.com/channel/0029Vaich7vLdQeUgMMBPc13']],
             []
         ],
         [
@@ -147,7 +147,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 احم`,
             img4,
             [], [],
-            [['زر 7', 'https://wa.me/201225655220'], ['زر 8', 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f']],
+            [['زر 7', 'https://wa.me/249111230420'], ['زر 8', 'https://whatsapp.com/channel/0029Vaich7vLdQeUgMMBPc13']],
             []
         ],
         [
@@ -158,7 +158,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 احم`,
             img5,
             [], [],
-            [['زر 9', 'https://wa.me/201225655220'], ['زر 10', 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f']],
+            [['زر 9', 'https://wa.me/249111230420'], ['زر 10', 'https://whatsapp.com/channel/0029Vaich7vLdQeUgMMBPc13']],
             []
         ],
         [
@@ -169,7 +169,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 احم`,
             img6,
             [], [],
-            [['زر 11', 'https://wa.me/201225655220'], ['زر 12', 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f']],
+            [['زر 11', 'https://wa.me/249111230420'], ['زر 12', 'https://whatsapp.com/channel/0029Vaich7vLdQeUgMMBPc13']],
             []
         ],
         [
@@ -180,7 +180,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 احم`,
             img7,
             [], [],
-            [['زر 13', 'https://wa.me/201225655220'], ['زر 14', 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f']],
+            [['زر 13', 'https://wa.me/249111230420'], ['زر 14', 'https://whatsapp.com/channel/0029Vaich7vLdQeUgMMBPc13']],
             []
         ],
         [
@@ -191,7 +191,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 احم`,
             img8,
             [], [],
-            [['زر 15', 'https://wa.me/201225655220'], ['زر 16', 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f']],
+            [['زر 15', 'https://wa.me/249111230420'], ['زر 16', 'https://whatsapp.com/channel/0029Vaich7vLdQeUgMMBPc13']],
             []
         ],
         [
@@ -202,7 +202,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 احم`,
             img9,
             [], [],
-            [['زر 17', 'https://wa.me/201225655220'], ['زر 18', 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f']],
+            [['زر 17', 'https://wa.me/249128749239'], ['زر 18', 'https://whatsapp.com/channel/0029Vaich7vLdQeUgMMBPc13']],
             []
         ]
     ];
