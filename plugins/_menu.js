@@ -47,8 +47,8 @@ let handler = async (m, { conn, usedPrefix, command }) => {
     const str = `
 > *✧────[ 𝑾𝑬𝑳𝑪𝑶𝑴𝑬 ]────╮*
 > *┤ *مرحبا يا ${taguser}*
-> *┤ 🤴🏻 المطور: Mahmoud Mahmed*
-> *┤ #️⃣ الرقم: wa.me/201225655220*
+> *┤ 🤴🏻 المطور: MOHAMME DADEL*
+> *┤ #️⃣ الرقم: wa.me/249111230420*
 > *┤ ✅ الاصدار: 1.2.0*
 > *┤ 🎳 البادئة: •*
 > *┤ 🧜🏽‍♂️ المستخدمين: ${rtotalreg}*  
