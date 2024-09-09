@@ -21,7 +21,7 @@ var handler = async (m, { conn, command, text, usedPrefix }) => {
       ⇆ㅤㅤ◁ㅤㅤ❚❚ㅤㅤ▷ㅤㅤ↻
        00:15 ━━━━●────── 
   *↜❍  الـرابــط:* ${url}
-  *ـــــــــــــــــــــــ☽ 𝑧ₑ𝑧ₒ_𝑏ₒ𝑡 ☾ـــــــــــــــــــــ*`;
+  *ـــــــــــــــــــــــ☽ MIDO ☾ـــــــــــــــــــــ*`;
 
   conn.sendMessage(m.chat, { image: { url: thumbnail }, caption: captvid, footer: author }, { quoted: m });
 
