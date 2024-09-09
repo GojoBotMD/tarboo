@@ -1,4 +1,4 @@
-// من قناة : https://whatsapp.com/channel/0029VaQim2bAu3aPsRVaDq3v
+// من قناة : https://whatsapp.com/channel/0029Vaich7vLdQeUgMMBPc13
 // By : team GataBot 
 
 
@@ -29,8 +29,8 @@ const messages = [[ // CARRUSEL 1
 '❬ 𝒃𝒐𝒕 𝒆𝒍 𝒕𝒂𝒓𝒃𝒐𝒐 ❭',
 'https://telegra.ph/file/f4f9d2420ac2b1072eb2e.jpg',
 [['المطور', '.المطور'], ['القائمه', '.menu']],
-[['❬ 𝒃𝒐𝒕 𝒆𝒍 𝒕𝒂𝒓𝒃𝒐𝒐 ❭'], ['تربو عمك']],
-[['قناتي', 'https://whatsapp.com/channel/0029Vaflefp4Y9ljqmqllP3a']],
+[['❬ 𝒃𝒐𝒕 𝒆𝒍 𝒕𝒂𝒓𝒃𝒐𝒐 ❭'], ['ميدو عمك']],
+[['قناتي', 'https://whatsapp.com/channel/0029Vaich7vLdQeUgMMBPc13']],
 [['الاوامر', sections]] 
 ]]/*[ // CARRUSEL 3
 'Descripción de Carrusel 3',
