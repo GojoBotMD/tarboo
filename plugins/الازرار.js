@@ -169,12 +169,12 @@ await conn.sendMessage(m.chat, { text: '*جاري تحضير قائمة الاو
                             },
                             {
                                 name: "cta_url",
-                                buttonParamsJson: "{\"display_text\":\"『』قناتي《\",\"url\":\"https://atom.bio/zyad_yasser\",\"merchant_url\":\"https://atom.bio/zyad_yasser\"}"
+                                buttonParamsJson: "{\"display_text\":\"『』موقعي《\",\"url\":\"https://atom.bio/zyad_yasser\",\"merchant_url\":\"https://atom.bio/zyad_yasser\"}"
                             },
                             {
                                 name: "cta_url",
                                 buttonParamsJson: JSON.stringify({
-                                    display_text: "『』CHANNEL《",
+                                    display_text: "『』قناتي《",
                                     url: "https://whatsapp.com/channel/0029Vaich7vLdQeUgMMBPc13",
                                     merchant_url: "https://chat.whatsapp.com/GwpVRwW4o8z11bctqm9n7Q"
                                 })
