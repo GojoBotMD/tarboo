@@ -22,7 +22,7 @@ const messages = [[ // CARRUSEL 1
 '❬ 𝒃𝒐𝒕 𝒆𝒍 𝒕𝒂𝒓𝒃𝒐𝒐 ❭',
 'https://telegra.ph/file/f4f9d2420ac2b1072eb2e.jpg',
 [['القائمه', usedPrefix + 'menu'], ['المطور','.المطور'] /* etc... */],
-[['صوره', canal2], ['القناه', 'https://whatsapp.com/channel/0029Vaflefp4Y9ljqmqllP3a'] /* etc... */],
+[['صوره', canal2], ['القناه', 'https://whatsapp.com/channel/0029Vaich7vLdQeUgMMBPc13'] /* etc... */],
 [['click here', sections]]
 ], [ // CARRUSEL 2
 'تست',
