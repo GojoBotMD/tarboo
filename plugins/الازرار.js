@@ -69,7 +69,7 @@ await conn.sendMessage(m.chat, { text: '*جاري تحضير قائمة الاو
 > *┤────────────···*`
                     },
                     footer: {
-                        text: 'ᴹᴿ᭄𝒁𝒆𝒛𝒐ᴹᴿ᭄'
+                        text: 'MIDO '
                     },
                     header: {
                         title: '',
@@ -81,7 +81,7 @@ await conn.sendMessage(m.chat, { text: '*جاري تحضير قائمة الاو
                             {
                                 name: 'single_select',
                                 buttonParamsJson: JSON.stringify({
-                                    title: '『』CLICK《',
+                                    title: '『』القائمة《',
                                     sections: [
                                         {
                                             title: '『』MENUS《',
@@ -157,19 +157,19 @@ await conn.sendMessage(m.chat, { text: '*جاري تحضير قائمة الاو
                                         }
                                     ]
                                 }),
-                                messageParamsJson: 'TARBOO bot'
+                                messageParamsJson: 'MIDO bot'
                             },
                             {
                                 name: "quick_reply",
-                                buttonParamsJson: "{\"display_text\":\"『』OWNER《\",\"id\":\".المطور\"}"
+                                buttonParamsJson: "{\"display_text\":\"『』المطور《\",\"id\":\".المطور\"}"
                             },
                             {
                                 name: "cta_url",
-                                buttonParamsJson: "{\"display_text\":\"『』GROUP《\",\"url\":\"https://chat.whatsapp.com/Gvj15Uocf6KDc2OUzgx06g\",\"merchant_url\":\"https://chat.whatsapp.com/Gvj15Uocf6KDc2OUzgx06g\"}"
+                                buttonParamsJson: "{\"display_text\":\"『』قروبي《\",\"url\":\"https://chat.whatsapp.com/Gvj15Uocf6KDc2OUzgx06g\",\"merchant_url\":\"https://chat.whatsapp.com/Gvj15Uocf6KDc2OUzgx06g\"}"
                             },
                             {
                                 name: "cta_url",
-                                buttonParamsJson: "{\"display_text\":\"『』WEBSITE《\",\"url\":\"https://atom.bio/zyad_yasser\",\"merchant_url\":\"https://atom.bio/zyad_yasser\"}"
+                                buttonParamsJson: "{\"display_text\":\"『』قناتي《\",\"url\":\"https://atom.bio/zyad_yasser\",\"merchant_url\":\"https://atom.bio/zyad_yasser\"}"
                             },
                             {
                                 name: "cta_url",
