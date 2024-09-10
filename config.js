@@ -12,8 +12,8 @@ global.botnumber = "";
 global.confirmCode = "";
 
 global.owner = [
-  ['249111230420', ':┋MIDO 𝐎𝐖𝐍𝐄𝐑┋:', true],
-  ['249128749239', ':┋MIDO 𝐎𝐖𝐍𝐄𝐑²┋: ', true],
+  ['249111230420', ':┋MIDO المطور┋:', true],
+  ['212716725800', ':┋MIDO المطور┋: ', true],
 ];
 
 global.suittag = ['249111230420'];
@@ -21,7 +21,7 @@ global.prems = ['249111230420'];
 global.packname = '• 𝙱𝙾𝚃 𝙴𝙻 mido | 🐼❤️) ء';
 global.author = '‹ mido ʙᴏᴛ ،| 🌝♥️';
 global.vs = 'V2 • 1.0.5';
-global.wm = '• 🅃🄰🅁🄱🄾🄾 🄱🄾🅃 | ،💛؛❥!';
+global.wm = '• MIDO BOT | ،💛؛❥!';
 global.titulowm = '•❬ MIDO BOT ❭•︎';
 global.titulowm2 = `• 𝙱𝙾𝚃 𝙴𝙻 𝚃𝙰𝚁𝙱𝙾𝙾 | 🐼❤️)`;
 global.igfg = 'MIDO BOT';
