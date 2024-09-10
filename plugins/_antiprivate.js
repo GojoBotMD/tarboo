@@ -10,9 +10,9 @@ export async function before(m, {conn, isAdmin, isBotAdmin, isOwner, isROwner}) 
   if (!m.message) return !0;
   if (m.text.includes('PIEDRA') || m.text.includes('PAPEL') || m.text.includes('TIJERA') || m.text.includes('serbot') || m.text.includes('jadibot')) return !0;
   const chat = global.db.data.chats[m.chat];
-  const bot = global.db.data.settings[this.user.jid] || {};
+  const bot = global.db.data.setالرقمtings[this.user.jid] || {};
   if (bot.antiPrivate && !isOwner && !isROwner) {
-    await m.reply('ممنوع مراسلة البوت خاص حتي لايتم تبنيد الرقم سيتم حظرك الان\n\nجروب الدعم لو حابب تستخدم البوت\nhttps://chat.whatsapp.com/GwpVRwW4o8z11bctqm9n7Q', false, {mentions: [m.sender]});
+    await m.reply('ممنوع مراسلة البوت خاص حتي لا تعيد الكره نره اخره والان  سيتم حظرك الان\n\nجروب الدعم لو حابب تستخدم البوت\nhttps://chat.whatsapp.com/HEymhaMK6EfD4MRWj00juf', false, {mentions: [m.sender]});
     await this.updateBlockStatus(m.chat, 'block');
   }
   return !1;
