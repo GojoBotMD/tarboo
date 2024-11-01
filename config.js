@@ -12,19 +12,19 @@ global.botnumber = "";
 global.confirmCode = "";
 
 global.owner = [
-  ['249111230420', ':┋MIDO المطور┋:', true],
-  ['212716725800', ':┋MIDO المطور┋: ', true],
+  ['963997768075', 'Azeez', true],
+  ['963995542357', 'Matuos ', true],
 ];
 
-global.suittag = ['249111230420'];
-global.prems = ['249111230420'];
-global.packname = '• 𝙱𝙾𝚃 𝙴𝙻 mido | 🐼❤️) ء';
-global.author = '‹ mido ʙᴏᴛ ،| 🌝♥️';
+global.suittag = ['963938408859'];
+global.prems = ['963938408859'];
+global.packname = 'Gojo Bot';
+global.author = 'Gojo Bot 🌝♥️';
 global.vs = 'V2 • 1.0.5';
-global.wm = '• MIDO BOT | ،💛؛❥!';
-global.titulowm = '•❬ MIDO BOT ❭•︎';
-global.titulowm2 = `• 𝙱𝙾𝚃 𝙴𝙻 𝚃𝙰𝚁𝙱𝙾𝙾 | 🐼❤️)`;
-global.igfg = 'MIDO BOT';
+global.wm = 'Gojo Bot💛؛❥!';
+global.titulowm = '•❬ Gojo BOT ❭•︎';
+global.titulowm2 = `Gojo Bot | 🐼❤️)`;
+global.igfg = 'Gojo BOT';
 global.rwait = '⌛';
 global.done = '✅';
 global.wait = '⌛ *`الرجاء الانتظار قليلا...`*\n*✪✦✦⊹⊹⊹⊹⊹⊹⊹⊹✪*';
@@ -50,15 +50,15 @@ global.mes = d.toLocaleDateString('es', { month: 'long' });
 global.año = d.toLocaleDateString('es', { year: 'numeric' });
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true });
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nMidi 𝑩𝒐𝒕᪣︎`;
-global.gt = '𝑇𝐴𝑅𝒃𝑂𝑂 𝒃𝑂𝑇𐇵︎';
-global.mysticbot = 'mido 𝐵𝑂𝑇᪣︎';
-global.md = 'mido 𝙱𝙾𝚃💛📒 ؛';
-global.mysticbot = 'mido 𝑩𝒐𝒕';
+global.wm2 = `${dia} ${fecha}\nGojo 𝑩𝒐𝒕᪣︎`;
+global.gt = 'Gojo 𝒃𝑂𝑇𐇵︎';
+global.mysticbot = 'Gojo 𝐵𝑂𝑇᪣︎';
+global.md = 'Gojo 𝙱𝙾𝚃💛📒 ؛';
+global.mysticbot = 'Gojo 𝑩𝒐𝒕';
 global.waitt = '⌛ *`الرجاء الانتظار قليلا...`*\n*✪✦✦⊹⊹⊹⊹⊹⊹⊹⊹✪*';
 global.waittt = '⌛ *`الرجاء الانتظار قليلا...`*\n*✪✦✦⊹⊹⊹⊹⊹⊹⊹⊹✪*';
 global.waitttt = '⌛ *`الرجاء الانتظار قليلا...`*\n*✪✦✦⊹⊹⊹⊹⊹⊹⊹⊹✪*';
-global.nomorown = '20';
+global.nomorown = '963938408859';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
